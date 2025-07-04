@@ -99,8 +99,8 @@ Bu, kumaş üretim süreçlerini takip etmek için tasarlanmış web tabanlı bi
 
 ## Kullanılan Teknolojiler
 
-- **Ön Uç (Frontend):** React, Vite, TypeScript, Tailwind CSS, Shadcn/ui
-- **Arka Uç (Backend)/Veritabanı:** Supabase (PostgreSQL, Kimlik Doğrulama, Gerçek Zamanlı, Depolama)
+- **Frontend:** React, Vite, TypeScript, Tailwind CSS, Shadcn/ui
+- **Backend /Veritabanı:** Supabase (PostgreSQL, Kimlik Doğrulama, Gerçek Zamanlı, Depolama)
 - **E-posta Doğrulama:** ZeroBounce API (temel doğrulamaya geri dönüş ile)
 
 ## Kurulum ve Yükleme
