@@ -4,6 +4,10 @@
 
 This is a web-based application designed to track fabric production processes. It allows users to manage orders, products, and production steps efficiently. The system aims to provide a clear overview of the production flow, from raw material to finished goods, helping businesses optimize their operations and improve tracking capabilities.
 
+## TRY : 
+https://erqubhdg.manus.space 
+https://erqubhdg.manus.space/auth 
+
 ## Features
 
 - **Company Management:** Create or join a company to manage production data collaboratively.
